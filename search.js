@@ -54,7 +54,7 @@ else {
 
             }
         check_contents()
-        gitif (counter.amount == 0 )
+       if (counter.amount == 0 )
             console.log(file_not_found_msg)
 
         }
