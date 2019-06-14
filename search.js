@@ -56,7 +56,7 @@ else {
         check_contents()
        if (counter.amount == 0 )
             console.log(file_not_found_msg)
-
+	    console.log('Lidor')
         }
 
 
